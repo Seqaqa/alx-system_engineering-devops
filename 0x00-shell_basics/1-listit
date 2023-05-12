@@ -1,2 +1,4 @@
 #!/bin/bash
 ls
+echo 'listit readme' > README.md
+
