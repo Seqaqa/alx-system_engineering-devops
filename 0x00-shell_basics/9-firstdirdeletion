@@ -1,4 +1,4 @@
 #!/bin/bash
 mkdir /tmp my_first_directory
-rm -r my_first_directory
+rm -rf my_first_directory
 
