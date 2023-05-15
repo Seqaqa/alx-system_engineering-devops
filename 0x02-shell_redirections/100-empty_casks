@@ -1,2 +1,3 @@
 #!/bin/bash
-find ./ -type f d -empty | wc -l
+find . -empty -type f -o -type d
+
